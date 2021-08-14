@@ -1,0 +1,16 @@
+D:\projects\p2p_test\p2pclient\bin\Debug\net5.0\p2pclient.exe
+D:\projects\p2p_test\p2pclient\bin\Debug\net5.0\p2pclient.deps.json
+D:\projects\p2p_test\p2pclient\bin\Debug\net5.0\p2pclient.runtimeconfig.json
+D:\projects\p2p_test\p2pclient\bin\Debug\net5.0\p2pclient.runtimeconfig.dev.json
+D:\projects\p2p_test\p2pclient\bin\Debug\net5.0\p2pclient.dll
+D:\projects\p2p_test\p2pclient\bin\Debug\net5.0\ref\p2pclient.dll
+D:\projects\p2p_test\p2pclient\bin\Debug\net5.0\p2pclient.pdb
+D:\projects\p2p_test\p2pclient\obj\Debug\net5.0\p2pclient.csprojAssemblyReference.cache
+D:\projects\p2p_test\p2pclient\obj\Debug\net5.0\p2pclient.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\p2p_test\p2pclient\obj\Debug\net5.0\p2pclient.AssemblyInfoInputs.cache
+D:\projects\p2p_test\p2pclient\obj\Debug\net5.0\p2pclient.AssemblyInfo.cs
+D:\projects\p2p_test\p2pclient\obj\Debug\net5.0\p2pclient.csproj.CoreCompileInputs.cache
+D:\projects\p2p_test\p2pclient\obj\Debug\net5.0\p2pclient.dll
+D:\projects\p2p_test\p2pclient\obj\Debug\net5.0\ref\p2pclient.dll
+D:\projects\p2p_test\p2pclient\obj\Debug\net5.0\p2pclient.pdb
+D:\projects\p2p_test\p2pclient\obj\Debug\net5.0\p2pclient.genruntimeconfig.cache

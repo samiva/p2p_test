@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SAFLSHBM++dUTsKfQcPlcnu9F+zHSsdoh9VS6I+57uA75MxREzkF8EJP1KAl34ieq7IBzfFv+Bhj/3Jc480sSw==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\p2p_test\\p2p_test\\p2pserver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\svara\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
